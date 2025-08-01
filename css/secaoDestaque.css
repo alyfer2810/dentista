@@ -44,7 +44,7 @@
   color: #333;
 }
 
-@media (min-width: 830px) {
+@media (min-width: 500px) {
 
   .secaoDestaque {
     background-image: url(../img/bg-intro.jpg);
